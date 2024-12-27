@@ -26,10 +26,9 @@ A simple Social Media application built using React, Express, and MySQL. The app
 
 
 ## Demo
+![Screenshot 2024-12-22 173724](https://github.com/user-attachments/assets/c1364fc1-18f2-4cf5-9f0f-b00caefc9740)
 
 ![Screenshot 2024-12-22 173701](https://github.com/user-attachments/assets/38fd42b9-3869-45b4-8387-de0b7f686837)
-
-![Screenshot 2024-12-22 173724](https://github.com/user-attachments/assets/c1364fc1-18f2-4cf5-9f0f-b00caefc9740)
 
 ![Screenshot 2024-12-22 173817](https://github.com/user-attachments/assets/191d2e02-78d6-4dc1-a3aa-795aacc733a5)
 
