@@ -1,0 +1,13 @@
+# Node modules (client-specific)
+node_modules/
+
+# Build and cache folders
+build/
+dist/
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Environment variable files
+.env
