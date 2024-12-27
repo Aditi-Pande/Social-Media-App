@@ -23,3 +23,19 @@ A simple Social Media application built using React, Express, and MySQL. The app
 - **Node.js**
 - **MySQL** (for data storage)
 - **Multer** (for handling file uploads)
+
+
+## Demo
+
+![Screenshot 2024-12-22 173701](https://github.com/user-attachments/assets/38fd42b9-3869-45b4-8387-de0b7f686837)
+
+![Screenshot 2024-12-22 173724](https://github.com/user-attachments/assets/c1364fc1-18f2-4cf5-9f0f-b00caefc9740)
+
+![Screenshot 2024-12-22 173817](https://github.com/user-attachments/assets/191d2e02-78d6-4dc1-a3aa-795aacc733a5)
+
+![Screenshot 2024-12-22 174118](https://github.com/user-attachments/assets/a03dce72-b9e0-418d-88e6-5b758ed82a32)
+
+![Screenshot 2024-12-22 174212](https://github.com/user-attachments/assets/0b307a80-8d8b-4a9f-81c4-0daa0d6d56f6)
+
+![Screenshot 2024-12-22 174451](https://github.com/user-attachments/assets/536bb0b8-f75f-42f2-9b3a-0265cddb49aa)
+
